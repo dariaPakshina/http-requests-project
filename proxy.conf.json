@@ -1,0 +1,10 @@
+{
+  "/api": {
+    "target": "https://angular-project-8b66b-default-rtdb.firebaseio.com",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}
